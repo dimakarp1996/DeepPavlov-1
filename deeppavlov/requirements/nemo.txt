@@ -1,1 +1,2 @@
 nemo-toolkit==0.10.0
+resampy==0.2.2
