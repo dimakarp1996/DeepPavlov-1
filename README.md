@@ -16,7 +16,7 @@ DeepPavlov is designed for
 * Documentation [*docs.deeppavlov.ai*](http://docs.deeppavlov.ai/)
     * Model List [*docs:features/*](http://docs.deeppavlov.ai/en/master/features/overview.html)
     * Contribution Guide [*docs:contribution_guide/*](http://docs.deeppavlov.ai/en/master/devguides/contribution_guide.html)
-* Issues [*github/issues/*](issues)
+* Issues [*github/issues/*](https://github.com/deeppavlovteam/DeepPavlov/issues)
 * Forum [*forum.deeppavlov.ai*](https://forum.deeppavlov.ai/)
 * Blogs [*medium.com/deeppavlov*](https://medium.com/deeppavlov)
 * Tutorials [*examples/*](examples) and [extended colab tutorials](https://github.com/deeppavlovteam/dp_tutorials)
